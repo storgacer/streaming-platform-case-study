@@ -289,11 +289,11 @@ Plus](./figs/paramount_correlation.png)
 
 In Figures 8 through 11, each scatter plot seems to be showing some sort
 of visual pattern with an upward trend. However, once a statistical
-approach is performed, this notion is shattered. In all of the above
-scatter plots, two values of the linear regressing are being displayed:
+approach is taken, this notion is shattered. In all of the above
+scatter plots, two values of the linear regression are being displayed:
 *R-squared value* and *P-value*. Each of these values tells us how
 strongly related the two variables are. The P-value tells us how
-significant the result is. Anything below 0.001 is quite significant.
+significant the results are. Anything below 0.001 is quite significant.
 Yet R-squared values tell the whole story. First, they fluctuate between
 1 and -1. The closer the value is to zero, the weaker the correlation
 is. The further away from zero in either direction the R-squared value
@@ -301,13 +301,13 @@ is, the stronger the correlation. Unfortunately, the correlation in all
 four cases was very weak, which meant that critic scores DO NOT explain
 what audience scores will be. That means that readers must be careful
 when listening to what critics say as these are not a clear indicative
-of what audiences will most likely appreciate.
+of what audience members will most likely appreciate.
 
 ### Section 6: Amount of titles scoring good marks
 
 The reason why this last section was included is because I believe that
 no matter how many titles each platform makes available to their
-audiences, good scores is what will determine if their movies and shows
+audiences, good scores are what will determine if their movies and shows
 are worth taking a look at or not.
 
 But before we dive into the actual results, it is important that we look
@@ -334,8 +334,8 @@ In the list above, we can see that Amazon Prime *with 9871 titles* way
 surpasses the other three platforms in terms of the sheer amount of
 titles it has. With this in mind, it now makes sense to proceed and look
 at the number of titles receiving good scores by both critics (*IMDb
-Scores*) and audiences (*TMDB Scores*). The scores go from 0 to 10 and,
-thus, the cutoff was set at 8.0 as this provides a strict requisite
+Scores*) and audience members (*TMDB Scores*). The scores go from 0 to 10 
+and, thus, the cutoff was set at 8.0 as this provides a strict requisite
 without being impossible to reach by most movies and shows.
 
 The results are shown below:
@@ -348,7 +348,7 @@ the highest number of entries above 8.0 even though it holds 3021 less
 movies and shows than Amazon Prime, which has the largest selection.
 This goes to show that Amazon Prime doesn’t have the best selection of
 titles as perceived by both critics and audience in general. However, it
-must be noted that HBO Max closely follows Netflix in terms of titles
+must be noted that HBO Max closely followed Netflix in terms of titles
 well-liked by the critics, even though it has 1556 less titles overall
 than Netflix does. So, it can be concluded that the best
 critic-acclaimed movies and shows can be found in Netflix and HBO Max as
