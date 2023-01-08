@@ -295,8 +295,8 @@ scatter plots, two values of the linear regression are being displayed:
 strongly related the two variables are. The P-value tells us how
 significant the results are. Anything below 0.001 is quite significant.
 Yet R-squared values tell the whole story. First, they fluctuate between
-1 and -1. The closer the value is to zero, the weaker the correlation
-is. The further away from zero in either direction the R-squared value
+0 and 1. The closer the value is to zero, the weaker the correlation
+is. The further away from zero the R-squared value
 is, the stronger the correlation. Unfortunately, the correlation in all
 four cases was very weak, which meant that critic scores DO NOT explain
 what audience scores will be. That means that readers must be careful
